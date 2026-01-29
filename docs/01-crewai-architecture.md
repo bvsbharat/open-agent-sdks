@@ -1978,37 +1978,30 @@ graph LR
 graph TD
     Execute["Execute Tool"]
     Try["Try Block"]
-
-    Success{"Success?"}
-    Retry{"Retry<br/>Count < Max?"}
-    Wait["Exponential<br/>Backoff"]
+    Success{Success?}
+    Retry{Retry Count Max?}
+    Wait["Exponential Backoff"]
     Retry2["Retry Execution"]
-
-    Fail["Tool Failed<br/>Error Event"]
+    Fail["Tool Failed Error"]
     Guardrail["Run Guardrails"]
-
-    ValidGuardrail{"Guardrail<br/>Pass?"}
-    GuardrailRetry["Retry with<br/>New Prompt"}
-    GuardrailFail["Task Failed"]
-
+    ValidGuardrail{Guardrail Pass?}
+    GuardrailRetry["Retry with New Prompt"]
     TaskComplete["Task Complete"]
+    TaskFailed["Task Failed"]
 
     Execute --> Try
     Try --> Success
-    Success -->|True| Guardrail
-    Success -->|False| Retry
-
-    Retry -->|True| Wait
+    Success -->|Yes| Guardrail
+    Success -->|No| Retry
+    Retry -->|Yes| Wait
     Wait --> Retry2
-    Retry2 -->|loop| Execute
-
-    Retry -->|False| Fail
-
-    Guardrail -->|Valid| TaskComplete
-    Guardrail -->|Invalid| ValidGuardrail
+    Retry2 --> Execute
+    Retry -->|No| Fail
+    Fail --> TaskFailed
+    Guardrail --> ValidGuardrail
     ValidGuardrail -->|Yes| TaskComplete
     ValidGuardrail -->|No| GuardrailRetry
-    GuardrailRetry -->|loop| Execute
+    GuardrailRetry --> Execute
 ```
 
 ---
