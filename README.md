@@ -36,21 +36,7 @@ This repository is an **independent technical analysis** created to help the dev
 ✅ **35+ Mermaid diagrams** showing architecture and data flows
 ✅ **100+ real code examples** from actual repositories
 ✅ **Comprehensive comparison** across all frameworks
-✅ **Interactive tools** for SDK selection and evaluation
-
-### How You Can Help
-
-This project is maintained by the community for the community. If you find this resource valuable:
-
-### Why This Matters
-
-Understanding how agent frameworks work is crucial for:
-- Making informed technology decisions
-- Building production-grade agentic systems
-- Contributing to the open-source ecosystem
-- Advancing the state of AI orchestration
-
-Every star, contribution, and share helps us continue this work and expand the documentation.
+✅ **Interactive tools** for SDK selection and evaluation comparison
 
 ---
 
