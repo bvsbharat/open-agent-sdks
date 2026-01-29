@@ -61,7 +61,7 @@ This project is maintained by the community for the community. If you find this 
 - Link from your project documentation
 
 **📢 Spread the Word**
-- Tag us [@open_agent_sdks](https://twitter.com) on social media
+- Tag us #open_agent_sdks on social media
 - Share your use cases in discussions
 - Help us build a community around agentic systems
 
