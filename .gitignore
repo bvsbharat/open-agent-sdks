@@ -1,0 +1,33 @@
+# Ignore embedded framework repositories
+adk-js/
+aws-agentcore/
+crewAI/
+langchain/
+mastra/
+
+# OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+.project
+.classpath
+
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment
+.env
+.env.local
+
+# Temporary files
+*.tmp
+*.log
