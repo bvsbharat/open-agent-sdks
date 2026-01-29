@@ -11,13 +11,13 @@
 ## What This Repository Covers
 
 This is a **technical reference for AI engineers** comparing and understanding how modern agentic frameworks work:
-- **CrewAI** (Python) — Multi-agent orchestration patterns
-- **LangChain.js** (TypeScript) — Functional composition framework
-- **LangGraph.js** (TypeScript) — State machine-based workflows
-- **DeepAgents.js** (TypeScript) — Strategic planning with memory offloading
-- **Mastra** (TypeScript) — Full-stack agent framework with DI
-- **Google ADK-JS** (TypeScript) — Multi-platform modular design
-- **AWS AgentCore** (TypeScript) — Cloud-native runtime with sandboxing
+- **[CrewAI](https://github.com/joaomdmoura/crewAI)** (Python) — Multi-agent orchestration patterns
+- **[LangChain.js](https://github.com/langchain-ai/langchain)** (TypeScript) — Functional composition framework
+- **[LangGraph.js](https://github.com/langchain-ai/langgraph)** (TypeScript) — State machine-based workflows
+- **[DeepAgents.js](https://github.com/agentic-ai/deepagents)** (TypeScript) — Strategic planning with memory offloading
+- **[Mastra](https://github.com/mastra-ai/mastra)** (TypeScript) — Full-stack agent framework with DI
+- **[Google ADK-JS](https://github.com/google-cloud-samples/adk-js)** (TypeScript) — Multi-platform modular design
+- **[AWS AgentCore](https://github.com/aws/bedrock-agents)** (TypeScript) — Cloud-native runtime with sandboxing
 
 Perfect for:
 - 🎯 **Architects** choosing the right agent SDK for your project
