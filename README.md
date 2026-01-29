@@ -42,29 +42,6 @@ This repository is an **independent technical analysis** created to help the dev
 
 This project is maintained by the community for the community. If you find this resource valuable:
 
-**⭐ Give it a Star!**
-- Help other engineers discover this resource
-- Show your support for community-driven documentation
-- [⭐ Star on GitHub](https://github.com/bvsbharat/open-agent-sdks)
-
-**🤝 Contribute**
-- Found an inaccuracy? Open an issue or PR
-- Want to add analysis of another SDK? We're open to contributions
-- Have suggestions for improvements? Let us know!
-- [📝 Open an Issue](https://github.com/bvsbharat/open-agent-sdks/issues)
-- [🔀 Submit a Pull Request](https://github.com/bvsbharat/open-agent-sdks/pulls)
-
-**💬 Share**
-- Share this with your team
-- Recommend it in communities like Reddit, Discord, Hacker News
-- Reference it in your technical blogs or articles
-- Link from your project documentation
-
-**📢 Spread the Word**
-- Tag us #open_agent_sdks on social media
-- Share your use cases in discussions
-- Help us build a community around agentic systems
-
 ### Why This Matters
 
 Understanding how agent frameworks work is crucial for:
