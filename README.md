@@ -789,6 +789,62 @@ The documentation enables:
 
 ---
 
+## 🔗 Original SDK Repositories
+
+This technical analysis documentation references the following open-source agent frameworks. Visit their official repositories for source code, official documentation, and community discussions.
+
+### Featured Frameworks
+
+| Framework | Language | GitHub Repository | Stars | Status |
+|-----------|----------|-------------------|-------|--------|
+| **CrewAI** | Python | [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) | ⭐⭐⭐⭐⭐ | Active |
+| **LangChain** | TypeScript/Python | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | ⭐⭐⭐⭐⭐ | Active |
+| **LangGraph.js** | TypeScript | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | ⭐⭐⭐⭐ | Active |
+| **Mastra** | TypeScript | [mastra-ai/mastra](https://github.com/mastra-ai/mastra) | ⭐⭐⭐⭐ | Active |
+| **Google ADK-JS** | TypeScript | [google-cloud-samples/adk-js](https://github.com/google-cloud-samples/adk-js) | ⭐⭐⭐ | Active |
+| **AWS AgentCore** | TypeScript | [aws/bedrock-agents](https://github.com/aws/bedrock-agents) | ⭐⭐⭐⭐ | Active |
+| **DeepAgents.js** | TypeScript | [agentic-ai/deepagents](https://github.com/agentic-ai/deepagents) | ⭐⭐⭐ | Active |
+
+### Deep-Dive Documentation Per Framework
+
+- **CrewAI** → Official Docs: [crewai.io](https://docs.crewai.io) | Repository Analysis: [01-crewai-architecture.md](./docs/01-crewai-architecture.md)
+- **LangChain.js** → Official Docs: [js.langchain.com](https://js.langchain.com) | Repository Analysis: [02-langchainjs-architecture.md](./docs/02-langchainjs-architecture.md)
+- **LangGraph.js** → Official Docs: [langchain-ai.github.io/langgraph](https://langchain-ai.github.io/langgraph) | Repository Analysis: [03-langgraphjs-architecture.md](./docs/03-langgraphjs-architecture.md)
+- **Mastra** → Official Docs: [mastra.ai](https://mastra.ai) | Repository Analysis: [05-mastra-architecture.md](./docs/05-mastra-architecture.md)
+- **Google ADK-JS** → Official Docs: [developers.google.com/ai-studio](https://developers.google.com/ai-studio) | Repository Analysis: [06-adk-js-architecture.md](./docs/06-adk-js-architecture.md)
+- **AWS AgentCore** → Official Docs: [aws.amazon.com/bedrock](https://aws.amazon.com/bedrock) | Repository Analysis: [07-aws-agentcore-architecture.md](./docs/07-aws-agentcore-architecture.md)
+- **DeepAgents.js** → Official Docs: [deepagents.ai](https://deepagents.ai) | Repository Analysis: [04-deepagentsjs-architecture.md](./docs/04-deepagentsjs-architecture.md)
+
+### Why These SDKs?
+
+These 7 frameworks represent diverse architectural approaches to solving the agent orchestration problem:
+
+- **Imperative orchestration** (CrewAI)
+- **Functional composition** (LangChain.js)
+- **State machine workflows** (LangGraph.js)
+- **Strategic planning** (DeepAgents.js)
+- **Modular full-stack** (Mastra)
+- **Cloud-native runtime** (AWS AgentCore)
+- **Multi-platform plugins** (Google ADK-JS)
+
+Each brings unique insights into distributed reasoning, tool integration, memory management, and production deployment patterns.
+
+### Attribution & Inspiration
+
+This repository was created as an independent technical analysis effort. All code examples, architectural diagrams, and analysis are derived from:
+1. Public GitHub repositories
+2. Official framework documentation
+3. Community discussions and issues
+4. Published papers and research
+
+We encourage developers to:
+- ⭐ Star the original framework repositories
+- 🤝 Contribute to the frameworks you use
+- 📖 Read official documentation for latest updates
+- 🔗 Reference this analysis alongside official docs
+
+---
+
 ## 📄 License
 
 This documentation repository is provided under the MIT License. The analyzed frameworks maintain their own licenses (see individual SDK repositories).
