@@ -28,6 +28,55 @@ Perfect for:
 
 ---
 
+## 💡 About This Project
+
+This repository is an **independent technical analysis** created to help the developer community understand how modern AI agent frameworks are architected. We've analyzed 7 major open-source SDKs and documented:
+
+✅ **19,400+ lines** of technical documentation
+✅ **35+ Mermaid diagrams** showing architecture and data flows
+✅ **100+ real code examples** from actual repositories
+✅ **Comprehensive comparison** across all frameworks
+✅ **Interactive tools** for SDK selection and evaluation
+
+### How You Can Help
+
+This project is maintained by the community for the community. If you find this resource valuable:
+
+**⭐ Give it a Star!**
+- Help other engineers discover this resource
+- Show your support for community-driven documentation
+- [⭐ Star on GitHub](https://github.com/bvsbharat/open-agent-sdks)
+
+**🤝 Contribute**
+- Found an inaccuracy? Open an issue or PR
+- Want to add analysis of another SDK? We're open to contributions
+- Have suggestions for improvements? Let us know!
+- [📝 Open an Issue](https://github.com/bvsbharat/open-agent-sdks/issues)
+- [🔀 Submit a Pull Request](https://github.com/bvsbharat/open-agent-sdks/pulls)
+
+**💬 Share**
+- Share this with your team
+- Recommend it in communities like Reddit, Discord, Hacker News
+- Reference it in your technical blogs or articles
+- Link from your project documentation
+
+**📢 Spread the Word**
+- Tag us [@open_agent_sdks](https://twitter.com) on social media
+- Share your use cases in discussions
+- Help us build a community around agentic systems
+
+### Why This Matters
+
+Understanding how agent frameworks work is crucial for:
+- Making informed technology decisions
+- Building production-grade agentic systems
+- Contributing to the open-source ecosystem
+- Advancing the state of AI orchestration
+
+Every star, contribution, and share helps us continue this work and expand the documentation.
+
+---
+
 ## 📊 Repository Statistics
 
 | Metric | Value |
