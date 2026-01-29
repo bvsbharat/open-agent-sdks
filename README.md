@@ -2,7 +2,7 @@
 
 > **The Most Comprehensive Technical Architecture Analysis of 7 Major AI Agent Frameworks** — Deep-dive into open-source agentic SDKs with 19,400+ lines of documentation, 35+ architecture diagrams, and 100+ code examples.
 
-[![GitHub stars](https://img.shields.io/github/stars/bharatbvs/open-agent-sdks?style=social)](https://github.com/bharatbvs/open-agent-sdks)
+[![GitHub stars](https://img.shields.io/github/stars/bvsbharat/open-agent-sdks?style=social)](https://github.com/bvsbharat/open-agent-sdks)
 [![Documentation](https://img.shields.io/badge/Documentation-18%2C571%20lines-blue)](./docs/README.md)
 [![Code Examples](https://img.shields.io/badge/Code%20Examples-100%2B-success)](./docs)
 [![Architecture Diagrams](https://img.shields.io/badge/Diagrams-35%2B%20Mermaid-critical)](./docs)
